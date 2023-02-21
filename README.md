@@ -4,11 +4,11 @@ This is a simple "Guess the Number" game built with JavaScript, HTML, and CSS. T
 
 # Installation
 
-Clone the repository to your local machine using the command:
-bash
-Copy code
-git clone https://github.com/Schemsou/Guess-The-Number-JavaScript-Game.git
-Open the index.html file in your web browser.
+Clone the repository to your local machine using the command:  
+bash  
+Copy code  
+git clone https://github.com/Schemsou/Guess-The-Number-JavaScript-Game.git  
+Open the index.html file in your web browser.  
 # Usage
 
 Enter a number between 1 and 20 in the input field and click "Guess".
